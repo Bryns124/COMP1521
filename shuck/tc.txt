@@ -1,0 +1,5 @@
+./testing hello
+./testinghello
+./testinghello
+
+./testing what the binge 
